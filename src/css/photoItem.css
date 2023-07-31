@@ -1,0 +1,14 @@
+.photoItem{
+    height: 100%;
+    display:flex;
+    flex-flow: column;
+    gap: .5275rem 0;
+}
+
+.__single{
+    padding-top: 3.0506rem;
+}
+
+.__upSpaced{
+    justify-content: center;
+}

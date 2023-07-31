@@ -1,0 +1,33 @@
+.scrollItem {
+    width: 11rem;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    gap: .5625rem 0;
+    position: relative;
+}
+
+.proposalStatus {
+    border-radius: .125rem;
+    background: #FFF;
+    position: absolute;
+    padding: .3125rem .375rem; 
+    left: .375rem;
+    top: .375rem;
+    font-size: .64rem;
+    font-weight: 400;
+    text-transform:uppercase;
+
+}
+
+.starIco {
+    width: .875rem;
+    height: auto;
+    margin-right: .250rem;
+}
+
+span {
+    font-size: .75rem;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,8 @@
+.LogoContainer{
+    background: white;
+    width: 34.375rem;
+    display: flex;
+    padding: 1.375rem 1.875rem;
+    margin: 6.25rem auto 0 auto;
+    filter: drop-shadow(0rem .1864rem .466rem rgba(0, 0, 0, 0.10));
+}
